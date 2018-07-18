@@ -27,30 +27,30 @@
     "lng": 120.4127
   },
   {
-    "id": 205,
-    "name": "gwapo ni sir milo",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "id": 4,
+    "name": "Basilica Minore of Our Lady Charity of Agoo, La Union",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "priceCurrency": "PHP",
+    "lat": 16.3247,
+    "lng": 120.3551
   },
   {
-    "id": 210,
-    "name": "gwapo ni sir milo",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "id": 5,
+    "name": "Baluarte Watch Tower of Luna La Union",
+    "imageUrl": "http://www.greedypeg.net/p/2017/06/25/52345_1.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "priceCurrency": "PHP",
+    "lat":16.8308,
+    "lng": 120.3551
   },
   {
-    "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "id": 6,
+    "name": "Tapuakan River Park of Pugo La Union",
+    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2014/02/La-Union-Tapuakan-River1.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "priceCurrency": "PHP",
+    "lat": 16.3213,
+    "lng": 120.4761
   }
 ]
