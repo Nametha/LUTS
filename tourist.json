@@ -52,5 +52,14 @@
     "priceCurrency": "PHP",
     "lat": 16.3213,
     "lng": 120.4761
+  },
+  {
+    "id": 7,
+    "name": "Sebay Resort & Entertainment Center",
+    "imageUrl": "http://sebaysurfcentral.com/wp-content/uploads/2015/06/MYX9420-1024x660.jpg",
+    "price": 500,
+    "priceCurrency": "PHP",
+    "lat": 16.6720,
+    "lng": 120.3628
   }
 ]
