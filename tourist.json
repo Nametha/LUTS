@@ -106,5 +106,14 @@
     "priceCurrency": "PHP",
     "lat": 16.7995,
     "lng": 120.3574
+  },
+  {
+    "id": 13,
+    "name": "BalayMi San Felipe San Juan La Union",
+    "imageUrl": "https://github.com/Nametha/LUTS/blob/master/namm.png?raw=true",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 34.0961,
+    "lng":118.1058
   }
 ]
