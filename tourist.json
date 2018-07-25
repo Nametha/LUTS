@@ -19,21 +19,21 @@
   },
   {
     "id": 3,
-    "name": "Tuddingan Falls of Naguilian La Union",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
+    "name": " Batanes Islands, Batanes Philippines",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Batanes.jpg",
     "price": 300,
     "priceCurrency": "PHP",
-    "lat": 16.5752,
-    "lng": 120.4174
+    "lat": 20.4485,
+    "lng": 121.9708
   },
   {
     "id": 4,
-    "name": "Basilica Minore of Our Lady Charity of Agoo, La Union",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "name": " Camiguin Island, Camiguin Philippines",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Camiguin-Island-Philippines.jpg",
     "price": 115,
     "priceCurrency": "PHP",
-    "lat": 16.323053,
-    "lng": 120.367813
+    "lat": 9.1732,
+    "lng": 124.7299
   },
   {
     "id": 5,
