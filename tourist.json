@@ -46,12 +46,12 @@
   },
   {
     "id": 6,
-    "name": "Tapuakan River Park of Pugo La Union",
-    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2014/02/La-Union-Tapuakan-River1.jpg",
+    "name": "Malapascua Island, Cebu",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Malapascua.jpg",
     "price": 90,
     "priceCurrency": "PHP",
-    "lat":  16.3209715,
-    "lng": 120.4812143
+    "lat":  11.3358,
+    "lng": 124.1156
   },
   {
     "id": 7,
