@@ -3,7 +3,7 @@
     "id": 1,
     "name": "  El Nido, Palawan Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/10/12178197_10154376879183146_1061416062_n.jpg",
-    "price": 1,078.6,
+    "price": 1078.6,
     "priceCurrency": "KM",
     "lat": 11.2097,
     "lng":119.4623
@@ -21,7 +21,7 @@
     "id": 3,
     "name": " Batanes Islands, Batanes Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Batanes.jpg",
-    "price": 6,396,
+    "price": 6396,
     "priceCurrency": "KM",
     "lat": 20.4485,
     "lng": 121.9708
@@ -30,7 +30,7 @@
     "id": 4,
     "name": " Camiguin Island, Camiguin Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Camiguin-Island-Philippines.jpg",
-    "price": 1,358.1,
+    "price": 1358.1,
     "priceCurrency": "KM",
     "lat": 9.1732,
     "lng": 124.7299
@@ -39,7 +39,7 @@
     "id": 5,
     "name": " Kalanggaman Island, Leyte Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2016/01/kalanggaman-island-768x512.jpg",
-    "price": 1,240.2,
+    "price": 1240.2,
     "priceCurrency": "KM",
     "lat": 11.1144,
     "lng": 124.2495
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Malapascua Island, Cebu",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Malapascua.jpg",
-    "price": 1,135.0,
+    "price": 1135.0,
     "priceCurrency": "KM",
     "lat":  11.3358,
     "lng": 124.1156
@@ -57,7 +57,7 @@
     "id": 7,
     "name": " Coron, Palawan Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Kayangan-Lake-Coron.jpg",
-    "price": 1,078.6,
+    "price": 1078.6,
     "priceCurrency": "KM",
     "lat": 12.0499,
     "lng": 120.1782
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Chocolate Hills, Bohol Philippines",
     "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Chocolate_Hills-1024x682.jpg",
-    "price": 1,204.9,
+    "price": 1204.9,
     "priceCurrency": "KM",
     "lat": 9.8297,
     "lng": 124.1397
@@ -93,7 +93,7 @@
    "id": 11,
     "name": "Cabgan Islet Barobo, Surigao del Sur Philippines",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/cabgan-islet-pinoy-travel-freak-750x469.jpg",
-    "price": 1,587.1 ,
+    "price": 1587.1 ,
     "priceCurrency": "KM",
     "lat": 8.5683,
     "lng": 126.1669
@@ -129,7 +129,7 @@
    "id": 15,
     "name": "Asik-asik Falls Alamada, North Cotabato Philippines",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/asik-asik-falls-brahmin-eyes-750x469.jpg",
-    "price": 1,872.3,
+    "price": 1872.3,
     "priceCurrency": "KM",
     "lat": 7.5616,
     "lng": 124.5354
